@@ -28,3 +28,6 @@ blockchain = [
 # and you're itching for more, think about if there other ways to implement the solution that 
 # are more flexible; i.e. what if we added someone new to the blockchain? is there a way to 
 # do this where we wouldn't have to rewrite the code?
+
+puts "Brian's KelloggCoin balance is #{blockchain[0][:amount]}"
+ 

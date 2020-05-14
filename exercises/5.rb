@@ -9,7 +9,14 @@
 ranks = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 suits = ["Clubs", "Diamonds", "Hearts", "Spades"]
 
+#for card in ranks 
+#    for type in suits
+#        puts "The #{card} of #{type}"    
+#    end
+#end
+
 # BONUS
 # Build the deck so that it doesn't just write the combinations out;
 # rather, create a new data structure that holds the cards so they 
 # can be shuffled, dealt, etc.
+
